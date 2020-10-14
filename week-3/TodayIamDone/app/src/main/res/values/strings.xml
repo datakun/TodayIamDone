@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Today I am Done</string>
+    <string name="bookmark">중요한 일</string>
+    <string name="todo">할 일</string>
+    <string name="done">완료한 일</string>
+    <string name="add">추가</string>
+    <string name="cancel">취소</string>
+    <string name="msg_please_insert">할 일을 입력하세요.</string>
+    <string name="msg_insert_todo">할 일을 등록했습니다.</string>
+    <string name="msg_delete_todo">할 일을 삭제했습니다.</string>
+</resources>
