@@ -30,7 +30,7 @@ class NotificationService : IntentService("NotificationService") {
         // TODO: intent에서 메시지 받아오기
 
         if (timestamp > 0) {
-            // TODO: 알림용 데이터를 담는 Intent 생성
+            // TODO: 알림을 클릭했을 때 처리를 위해 필요한 데이터를 담는 Intent 생성
 
             // TODO: Pending Intent 생성 (안드로이드 시스템인 NotificationManager 사용할 때 이용)
 
